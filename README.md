@@ -1,6 +1,6 @@
 # Laravel Uwierzytelnianie Multi Guards
 
-Jak uruchomić uwierzytelnianie multi guard w aplikacji Laravel. Oddzielne logowanie dla użytkownika i administratora aplikacji.
+Jak uruchomić uwierzytelnianie multi guard w aplikacji Laravel. Oddzielne logowanie dla użytkownika i administratora aplikacji. <https://www.youtube.com/watch?v=8O2uo7zL5_I>
 
 # Tworzenie projektu
 
