@@ -1,0 +1,7 @@
+# Add to windows hosts 
+
+C:\Windows\System32\drivers\etc\hosts
+
+# This line
+
+127.0.0.66 wow.test www.wow.test
